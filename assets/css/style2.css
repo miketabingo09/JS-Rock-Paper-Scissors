@@ -1,0 +1,9 @@
+section {
+    height: 100vh;
+    background-image: linear-gradient(rgb(7, 76, 42) ,rgb(2, 31, 17));
+}
+.play {
+    margin-top: 200px;
+    width: 500px;
+    height: 300px;  
+}
